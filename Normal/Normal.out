@@ -1,0 +1,907 @@
+Starting...
+
+
+fetching-1 www.facebook.com/ ...
+respcode: HTTP/1.1 302 forced.302
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-2 www.twitter.com/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-3 www.google.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:53358
+
+
+fetching-4 www.youtube.com/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-5 www.wordpress.org/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-6 www.adobe.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:112643
+
+
+fetching-7 www.blogspot.com/ ...
+respcode: HTTP/1.0 302 Moved Temporarily
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-8 www.wikipedia.org/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 896
+Data Size:568
+
+
+fetching-9 www.linkedin.com/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-10 www.wordpress.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 178
+Data Size:178
+
+
+fetching-11 www.yahoo.com/ ...
+respcode: HTTP/1.0 301 Redirect
+HTTPHandler::getResponse conLen 1450
+Data Size:749
+
+
+fetching-12 www.amazon.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:154477
+
+
+fetching-13 www.flickr.com/ ...
+respcode: HTTP/1.0 302 Found
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-14 www.pinterest.com/ ...
+respcode: HTTP/1.1 302 FOUND
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-15 www.tumblr.com/ ...
+respcode: HTTP/1.1 404 Not Found
+HTTPHandler::getResponse conLen 0
+Data Size:4570
+
+
+fetching-16 www.w3.org/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 33707
+Data Size:569
+
+
+fetching-17 www.apple.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 10903
+Data Size:802
+
+
+fetching-18 www.myspace.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-19 www.vimeo.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-20 www.microsoft.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 1020
+Data Size:732
+
+
+fetching-21 www.youtu.be/ ...
+respcode: HTTP/1.0 404 Not Found
+HTTPHandler::getResponse conLen 513
+Data Size:513
+
+
+fetching-22 www.qq.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:588324
+
+
+fetching-23 www.digg.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 185
+Data Size:185
+
+
+fetching-24 www.baidu.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 7387
+Data Size:0
+
+
+fetching-25 www.stumbleupon.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-26 www.addthis.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:32301
+
+
+fetching-27 www.statcounter.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 313
+Data Size:0
+
+
+fetching-28 www.feedburner.com/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-29 www.miibeian.gov.cn/ ...
+respcode: HTTP/1.1 403 Forbidden
+HTTPHandler::getResponse conLen 0
+Data Size:20040
+
+
+fetching-30 www.delicious.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 178
+Data Size:178
+
+
+fetching-31 www.nytimes.com/ ...
+respcode: HTTP/1.1 400 Bad Request
+HTTPHandler::getResponse conLen 139
+Data Size:139
+
+
+fetching-32 www.reddit.com/ ...
+respcode: HTTP/1.1 400 Bad Request
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-33 www.weebly.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 27417
+Data Size:0
+
+
+fetching-34 www.bbc.co.uk/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 229
+Data Size:229
+
+
+fetching-35 www.blogger.com/ ...
+respcode: HTTP/1.0 302 Moved Temporarily
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-36 www.msn.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-37 www.macromedia.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 229
+Data Size:229
+
+
+fetching-38 www.goo.gl/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 211
+Data Size:211
+
+
+fetching-39 www.instagram.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 178
+Data Size:178
+
+
+fetching-40 www.gov.uk/ ...
+respcode: HTTP/1.1 500 Domain Not Found
+HTTPHandler::getResponse conLen 77
+Data Size:77
+
+
+fetching-41 www.icio.us/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 178
+Data Size:178
+
+
+fetching-42 www.yandex.ru/ ...
+respcode: HTTP/1.1 200 Ok
+HTTPHandler::getResponse conLen 48476
+Data Size:448
+
+
+fetching-43 www.cnn.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:129422
+
+
+fetching-44 www.webs.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 24988
+Data Size:706
+
+
+fetching-45 www.google.de/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:52768
+
+
+fetching-46 www.t.co/ ...
+respcode: HTTP/1.0 404 Not Found
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-47 www.livejournal.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:95204
+
+
+fetching-48 www.imdb.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:451629
+
+
+fetching-49 www.mail.ru/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 184
+Data Size:184
+
+
+fetching-50 www.jimdo.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:46508
+
+
+fetching-51 www.sourceforge.net/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-52 www.go.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 222
+Data Size:222
+
+
+fetching-53 www.tinyurl.com/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-54 www.vk.com/ ...
+respcode: HTTP/1.1 302 Found
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-55 www.google.co.jp/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:52943
+
+
+fetching-56 www.fc2.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 35806
+Data Size:754
+
+
+fetching-57 www.free.fr/ ...
+respcode: HTTP/1.1 302 Found
+HTTPHandler::getResponse conLen 279
+Data Size:279
+
+
+fetching-58 www.joomla.org/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 230
+Data Size:230
+
+
+fetching-59 www.creativecommons.org/ ...
+respcode: HTTP/1.1 404 Not Found
+HTTPHandler::getResponse conLen 0
+Data Size:17849
+
+
+fetching-60 www.typepad.com/ ...
+respcode: HTTP/1.1 400 Bad Request
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-61 www.networkadvertising.org/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:29424
+
+
+fetching-62 www.technorati.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-63 www.sina.com.cn/ ...
+respcode: HTTP/1.1 403 Unknown Domain Name
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-64 www.hugedomains.com/ ...
+respcode: HTTP/1.1 410 Gone
+HTTPHandler::getResponse conLen 35
+Data Size:35
+
+
+fetching-65 www.about.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:109967
+
+
+fetching-66 www.theguardian.com/ ...
+respcode: HTTP/1.1 500 Domain Not Found
+HTTPHandler::getResponse conLen 77
+Data Size:77
+
+
+fetching-67 www.yahoo.co.jp/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:16195
+
+
+fetching-68 www.nih.gov/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:40988
+
+
+fetching-69 www.huffingtonpost.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 310703
+Data Size:132
+
+
+fetching-70 www.google.co.uk/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:52893
+
+
+fetching-71 www.mozilla.org/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-72 www.51.la/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 9124
+Data Size:828
+
+
+fetching-73 www.aol.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 239924
+Data Size:281
+
+
+fetching-74 www.ebay.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:172423
+
+
+fetching-75 www.ameblo.jp/ ...
+respcode: HTTP/1.1 403 Forbidden
+HTTPHandler::getResponse conLen 4053
+Data Size:776
+
+
+fetching-76 www.wsj.com/ ...
+respcode: HTTP/1.1 302 Found
+HTTPHandler::getResponse conLen 266
+Data Size:266
+
+
+fetching-77 www.europa.eu/ ...
+respcode: HTTP/1.1 502 Bad Gateway
+HTTPHandler::getResponse conLen 699
+Data Size:699
+
+
+fetching-78 www.taobao.com/ ...
+respcode: HTTP/1.1 302 Found
+HTTPHandler::getResponse conLen 258
+Data Size:258
+
+
+fetching-79 www.bing.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-80 www.rambler.ru/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:78408
+
+
+fetching-81 www.guardian.co.uk/ ...
+respcode: HTTP/1.1 500 Domain Not Found
+HTTPHandler::getResponse conLen 77
+Data Size:77
+
+
+fetching-82 www.tripod.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-83 www.godaddy.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:124031
+
+
+fetching-84 www.issuu.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 71
+Data Size:71
+
+
+fetching-85 www.gnu.org/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:21214
+
+
+fetching-86 www.geocities.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 197
+Data Size:197
+
+
+fetching-87 www.slideshare.net/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:228278
+
+
+fetching-88 www.wix.com/ ...
+respcode: HTTP/1.1 503 Service Unavailable
+HTTPHandler::getResponse conLen 641
+Data Size:641
+
+
+fetching-89 www.mapquest.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 232
+Data Size:232
+
+
+fetching-90 www.washingtonpost.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 356692
+Data Size:393
+
+
+fetching-91 www.homestead.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 79
+Data Size:79
+
+
+fetching-92 www.reuters.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:97760
+
+
+fetching-93 www.163.com/ ...
+respcode: HTTP/1.0 500 Server Error
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-94 www.photobucket.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:51523
+
+
+fetching-95 www.forbes.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 50677
+Data Size:712
+
+
+fetching-96 www.clickbank.net/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-97 www.weibo.com/ ...
+respcode: HTTP/1.1 302 Found
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-98 www.etsy.com/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-99 www.amazon.co.uk/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:132936
+
+
+fetching-100 www.dailymotion.com/ ...
+respcode: HTTP/1.0 404 Not Found
+HTTPHandler::getResponse conLen 0
+Data Size:25483
+
+
+fetching-101 www.soundcloud.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 178
+Data Size:178
+
+
+fetching-102 www.usatoday.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:170110
+
+
+fetching-103 www.yelp.com/ ...
+respcode: HTTP/1.1 400 Bad Request
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-104 www.cnet.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:193934
+
+
+fetching-105 www.posterous.com/ ...
+respcode: HTTP/1.1 200 OK 
+HTTPHandler::getResponse conLen 2015
+Data Size:683
+
+
+fetching-106 www.telegraph.co.uk/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 193178
+Data Size:809
+
+
+fetching-107 www.archive.org/ ...
+respcode: HTTP/1.1 302 Moved Temporarily
+HTTPHandler::getResponse conLen 161
+Data Size:161
+
+
+fetching-108 www.google.fr/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:52766
+
+
+fetching-109 www.constantcontact.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 250
+Data Size:250
+
+
+fetching-110 www.phoca.cz/ ...
+respcode: HTTP/1.1 404 Not Found
+HTTPHandler::getResponse conLen 4624
+Data Size:495
+
+
+fetching-111 www.phpbb.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 292
+Data Size:292
+
+
+fetching-112 www.latimes.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:316545
+
+
+fetching-113 www.e-recht24.de/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-114 www.rakuten.co.jp/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:254052
+
+
+fetching-115 www.amazon.de/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:135391
+
+
+fetching-116 www.opera.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:18821
+
+
+fetching-117 www.miitbeian.gov.cn/ ...
+respcode: HTTP/1.1 403 Forbidden
+HTTPHandler::getResponse conLen 0
+Data Size:20040
+
+
+fetching-118 www.php.net/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 184
+Data Size:184
+
+
+fetching-119 www.scribd.com/ ...
+respcode: HTTP/1.1 500 Domain Not Found
+HTTPHandler::getResponse conLen 77
+Data Size:77
+
+
+fetching-120 www.bbb.org/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 9223
+Data Size:0
+
+
+fetching-121 www.parallels.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:1581
+
+
+fetching-122 www.ning.com/ ...
+respcode: HTTP/1.1 403 Proxy Error
+HTTPHandler::getResponse conLen 9
+Data Size:9
+
+
+fetching-123 www.dailymail.co.uk/ ...
+respcode: HTTP/1.0 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-124 www.cdc.gov/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:44739
+
+
+fetching-125 www.mobicip.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 18345
+Data Size:350
+
+
+fetching-126 www.wikimedia.org/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 896
+Data Size:569
+
+
+fetching-127 www.mit.edu/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 14761
+Data Size:744
+
+
+fetching-128 www.sakura.ne.jp/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:55562
+
+
+fetching-129 www.altervista.org/ ...
+respcode: HTTP/1.1 400 Bad Request
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-130 www.addtoany.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:1842
+
+
+fetching-131 www.time.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-132 www.google.it/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:52796
+
+
+fetching-133 www.stanford.edu/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:27651
+
+
+fetching-134 www.live.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 150
+Data Size:150
+
+
+fetching-135 www.alibaba.com/ ...
+respcode: HTTP/1.1 302 Found
+HTTPHandler::getResponse conLen 205
+Data Size:205
+
+
+fetching-136 www.squidoo.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-137 www.harvard.edu/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:62037
+
+
+fetching-138 www.gravatar.com/ ...
+respcode: HTTP/1.0 302 Found
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+fetching-139 www.histats.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:34209
+
+
+fetching-140 www.nasa.gov/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 32665
+Data Size:591
+
+
+fetching-141 www.npr.org/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:103324
+
+
+fetching-142 www.ca.gov/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 54440
+Data Size:760
+
+
+fetching-143 www.wired.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:154376
+
+
+fetching-144 www.amazon.co.jp/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:127805
+
+
+fetching-145 www.nbcnews.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:299578
+
+
+fetching-146 www.blog.com/ ...
+respcode: HTTP/1.1 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:22034
+
+
+fetching-147 www.amazonaws.com/ ...
+respcode: HTTP/1.1 302 Found
+HTTPHandler::getResponse conLen 250
+Data Size:250
+
+
+fetching-148 www.bloomberg.com/ ...
+respcode: HTTP/1.0 200 OK
+HTTPHandler::getResponse conLen 0
+Data Size:185241
+
+
+fetching-149 www.narod.ru/ ...
+respcode: HTTP/1.1 404 Not Found
+HTTPHandler::getResponse conLen 1840
+Data Size:0
+
+
+fetching-150 www.blinklist.com/ ...
+respcode: HTTP/1.1 301 Moved Permanently
+HTTPHandler::getResponse conLen 0
+Data Size:0
+
+
+
+Total Time Taken to fetch 150 urls is 58 secs
+
+

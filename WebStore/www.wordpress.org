@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 01 Oct 2014 00:38:14 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+X-Pingback: http://wordpress.org/xmlrpc.php
+Location: http://wordpress.org/
+X-Frame-Options: SAMEORIGIN
+X-nc: HIT lax 249
+
+
